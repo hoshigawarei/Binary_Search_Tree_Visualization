@@ -1,6 +1,7 @@
 # Binary Search Tree Visualization
 
 该程序实现了一个二叉排序树的可视化工具，允许用户通过网页交互来插入、删除和查找节点，并动态地更新树的可视化表示。用户可以通过输入框输入数值，然后点击相应按钮来进行操作。
+![img_B](img_B.png)
 
 ## 访问链接
 [https://hoshigawarei.github.io/Binary_Search_Tree_Visualization/]
